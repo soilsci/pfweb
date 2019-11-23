@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhosField Ltd</title>
+    <link>/</link>
+    <description>Recent content on PhosField Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TestNews</title>
+      <link>/news/testnews/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/testnews/</guid>
+      <description>This is a test of adding new content</description>
+    </item>
+    
+    <item>
+      <title>Why Test Your Soil?</title>
+      <link>/portfolio/whytest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/whytest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Another News Item</title>
+      <link>/news/another-news-item/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/another-news-item/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>/portfolio/phoshorus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/phoshorus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>/portfolio/template/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/template/</guid>
+      <description>&lt;p&gt;Portfolio template&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
